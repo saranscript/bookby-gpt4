@@ -1,6 +1,6 @@
 # bookby-gpt4
 
-### Authors: Saravanan Kumarashanmugam, Robert B Dannelly, and ChatGPT
+### Authors: Saravanan Kumarashanmugam, Robert B Dannelly, Jr, and ChatGPT
 
 I generated this book to create a boilerplate code for my new project https://thee.ai
 
